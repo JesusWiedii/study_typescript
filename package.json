@@ -1,0 +1,22 @@
+{
+  "name": "studytypescript",
+  "version": "1.0.0",
+  "description": "study typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusWiedii/study_typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "panda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JesusWiedii/study_typescript/issues"
+  },
+  "homepage": "https://github.com/JesusWiedii/study_typescript#readme"
+}
